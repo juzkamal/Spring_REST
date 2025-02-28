@@ -1,0 +1,52 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+/.project
+/.classpath
+/.settings/
+bin/
+/target/
+
+/.mvn/
+/mvnw
+/mvnw.cmd
+*.jar
+*.war
+*.ear
+
+# Application properties or secrets files
+application.properties
+application.yml
+
+# Spring Boot devtools
+spring-boot-devtools
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
