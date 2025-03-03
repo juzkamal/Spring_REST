@@ -50,3 +50,43 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# User-specific files
+.idea/.idea_modules
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/.name
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven target directory (output from build)
+
+# Maven Wrapper files
+.mvn/
+.mvnw
+.mvnw.cmd
+
+# Eclipse project files (if you've opened in Eclipse at some point)
+.settings/
+
+# IDE specific project files (IntelliJ or Eclipse)
+*.classpath
+*.project
+
+# OS generated files (macOS/Windows specific)
+.DS_Store
+Thumbs.db
+
+# Java specific temporary files
+*.swp
+*.swo
+
